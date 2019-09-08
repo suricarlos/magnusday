@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/magnusday/static/css/main.5b6c86cd.chunk.css",
+    "main.js": "/magnusday/static/js/main.1a3cdb08.chunk.js",
+    "main.js.map": "/magnusday/static/js/main.1a3cdb08.chunk.js.map",
+    "runtime~main.js": "/magnusday/static/js/runtime~main.13572680.js",
+    "runtime~main.js.map": "/magnusday/static/js/runtime~main.13572680.js.map",
+    "static/js/2.826a952d.chunk.js": "/magnusday/static/js/2.826a952d.chunk.js",
+    "static/js/2.826a952d.chunk.js.map": "/magnusday/static/js/2.826a952d.chunk.js.map",
+    "index.html": "/magnusday/index.html",
+    "precache-manifest.47bfd86fad2cb5e9b080e6801a56afd1.js": "/magnusday/precache-manifest.47bfd86fad2cb5e9b080e6801a56afd1.js",
+    "service-worker.js": "/magnusday/service-worker.js",
+    "static/css/main.5b6c86cd.chunk.css.map": "/magnusday/static/css/main.5b6c86cd.chunk.css.map",
+    "static/media/beep.mp3": "/magnusday/static/media/beep.327c021a.mp3",
+    "static/media/cronometro.svg": "/magnusday/static/media/cronometro.ceb8c47f.svg"
+  }
+}
