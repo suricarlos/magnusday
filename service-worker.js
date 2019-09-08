@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/magnusday/precache-manifest.47bfd86fad2cb5e9b080e6801a56afd1.js"
+  "/magnusday/precache-manifest.5304cc82041981006a90cd2eaf3bf13b.js"
 );
 
 self.addEventListener('message', (event) => {

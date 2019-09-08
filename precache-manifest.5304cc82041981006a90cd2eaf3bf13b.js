@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f88892871a69c76c755b8ebb86cfb1e1",
+    "revision": "dfc20aeff3bf60b847b6644a11567050",
     "url": "/magnusday/index.html"
   },
   {
-    "revision": "0728b7ee8d698114a1e6",
+    "revision": "f9446d50bea73fc71d99",
     "url": "/magnusday/static/css/main.5b6c86cd.chunk.css"
   },
   {
-    "revision": "2f41c8e6870c79fbb858",
-    "url": "/magnusday/static/js/2.826a952d.chunk.js"
+    "revision": "97e664df20708c926de6",
+    "url": "/magnusday/static/js/2.7a098f11.chunk.js"
   },
   {
-    "revision": "0728b7ee8d698114a1e6",
-    "url": "/magnusday/static/js/main.1a3cdb08.chunk.js"
+    "revision": "f9446d50bea73fc71d99",
+    "url": "/magnusday/static/js/main.7544e3ac.chunk.js"
   },
   {
-    "revision": "5eeee3963fa6803abb1a",
-    "url": "/magnusday/static/js/runtime~main.13572680.js"
+    "revision": "f16ababc8ec8e4fa9ce5",
+    "url": "/magnusday/static/js/runtime~main.27a2b5df.js"
   },
   {
     "revision": "327c021af8cb22f3b0da523ef9707cd6",
